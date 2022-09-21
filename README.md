@@ -5,6 +5,6 @@
 - I’m looking for Job Function : Information Technology, Software Developer/Engineer, Data     Engineer.
 - 💬 Industry Im Lokking For : Information Technology, Computer Software/Development.
 - Searching For Job Title : Backend Devloper.
-- 📫 How to reach me : Mail Id 📧(priyankasalunkhe950@gmail.com)
+- 📫 How to reach me : Mail Id 📧priyankasalunkhe950@gmail.com[enter link description here]
 - ⚡ Fun fact:  Interested In Learning New Things.
 
