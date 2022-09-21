@@ -11,4 +11,4 @@
 
 ### Programming Languages And Other Things Which I Learn:
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+![image](https://user-images.githubusercontent.com/114103435/191611344-f1e0bd37-17db-4d10-816e-de3563f4cabb.png)
