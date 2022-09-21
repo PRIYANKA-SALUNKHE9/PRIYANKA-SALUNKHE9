@@ -8,3 +8,7 @@
 - 📫 How to reach me : Mail Id 📧priyankasalunkhe950@gmail.com
 - ⚡ Fun fact:  Interested In Learning New Things.
 
+
+### Programming Languages And Other Things Which I Learn:
+
+![image](https://user-images.githubusercontent.com/114103435/191610078-ba6d2e10-e303-4243-9f2d-9c4414923450.png)
