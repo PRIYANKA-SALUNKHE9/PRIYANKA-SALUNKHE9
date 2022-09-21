@@ -11,4 +11,4 @@
 
 ### Programming Languages And Other Things Which I Learn:
 
-![image](https://user-images.githubusercontent.com/114103435/191610338-37fee0cb-abb8-46f8-a173-81b61d2d3c65.png)
+![image](https://user-images.githubusercontent.com/114103435/191610776-ada0324d-c56d-4a1d-9b1d-3832b4cd453a.png)
