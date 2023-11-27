@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with 6 months o
 - 📫 **How to Reach Me:** Email me at 📧 priyankasalunkhe950@gmail.com.
 - ⚡ **Fun Fact:** I'm always excited about learning new things!
 
-### Programming Languages and Tools I'm Proficient In:
+
 ## My Skills
 
 ### Programming Languages
