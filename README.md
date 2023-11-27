@@ -48,6 +48,9 @@ Here are some projects I've worked on:
 - [Project 4 Chat messenger with log facility](https://github.com/PRIYANKA-SALUNKHE9/Chat_Messenger)
 - [Project 5 Titanic Survival Predictor](https://github.com/PRIYANKA-SALUNKHE9/Titanic_Survival_Predictor) 
 
+## Contact Me
+
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/priyanka-salunkhe9)
 
 ## 📈 GitHub Stats
 
