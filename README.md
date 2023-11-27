@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Priyanka's GitHub stats][(https://github-readme-stats.vercel.app/api?username=PRIYANKA-SALUNKHE9&shohttps://github-readme-stats.vercel.app/api?PRIYANKA-SALUNKHE9=PRIYANKA-SALUNKHE9&show_icons=true&hide_title=true&count_private=true&theme=radical)w_icons=true&hide_title=true&count_private=true&theme=radical))]
+![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRIYANKA-SALUNKHE9&shohttps://github-readme-stats.vercel.app/api?PRIYANKA-SALUNKHE9=PRIYANKA-SALUNKHE9&show_icons=true&hide_title=true&count_private=true&theme=radical)w_icons=true&hide_title=true&count_private=true&theme=radical))
 
 Let's connect, learn, and share our coding experiences! Feel free to explore my repositories and reach out for collaboration or discussions.
 
