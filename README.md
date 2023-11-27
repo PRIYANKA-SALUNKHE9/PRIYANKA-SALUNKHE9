@@ -25,7 +25,11 @@ Here are some projects I've worked on:
 
 - [Project 1 Customized Virtual_File_System](https://github.com/PRIYANKA-SALUNKHE9/Virtual_File_System)
 - [Project 2 File_Packer_Unpacker](https://github.com/PRIYANKA-SALUNKHE9/File_Packer_Unpacker) 
-- [Project 3 Customized Database Management System](https://github.com/PRIYANKA-SALUNKHE9/Database_Management_System) 
+- [Project 3 Customized Database Management System](https://github.com/PRIYANKA-SALUNKHE9/Database_Management_System)
+- [Project 4 Chat messenger with log facility](https://github.com/PRIYANKA-SALUNKHE9/Chat_Messenger)
+- [Project 5 Titanic Survival Predictor](https://github.com/PRIYANKA-SALUNKHE9/Titanic_Survival_Predictor) 
+
+
 ## 📈 GitHub Stats
 
 ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRIYANKA-SALUNKHE9&shohttps://github-readme-stats.vercel.app/api?PRIYANKA-SALUNKHE9=PRIYANKA-SALUNKHE9&show_icons=true&hide_title=true&count_private=true&theme=radical)
