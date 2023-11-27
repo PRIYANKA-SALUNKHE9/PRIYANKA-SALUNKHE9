@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with 6 months o
 
 ### Programming Languages and Tools I'm Proficient In:
 
-- ![C Logo](link-to-c-logo) ,
+- !C Logo(link-to-c-logo) ,
 -  C++, JAVA, SQL, Dot Net, Angular, HTML5, CSS3, Bootstrap, Python, Postman, Visual Studio
 
 
