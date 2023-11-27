@@ -23,10 +23,9 @@ C, C++, JAVA, SQL, Dot Net, Angular, HTML5, CSS3, Bootstrap, Python, Postman, Vi
 
 Here are some projects I've worked on:
 
-- [Project 1 Customized Virtual_File_System](https://github.com/PRIYANKA-SALUNKHE9/Virtual_File_System) - Brief description and key technologies used.
-- [Project 2 File_Packer_Unpacker](https://github.com/PRIYANKA-SALUNKHE9/File_Packer_Unpacker) - Brief description and key technologies used.
-- [Project 3 Customized Database Management System](https://github.com/PRIYANKA-SALUNKHE9/Database_Management_System) - Brief description and key technologies used.
-
+- [Project 1 Customized Virtual_File_System](https://github.com/PRIYANKA-SALUNKHE9/Virtual_File_System)
+- [Project 2 File_Packer_Unpacker](https://github.com/PRIYANKA-SALUNKHE9/File_Packer_Unpacker) 
+- [Project 3 Customized Database Management System](https://github.com/PRIYANKA-SALUNKHE9/Database_Management_System) 
 ## 📈 GitHub Stats
 
 ![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=PRIYANKA-SALUNKHE9&shohttps://github-readme-stats.vercel.app/api?PRIYANKA-SALUNKHE9=PRIYANKA-SALUNKHE9&show_icons=true&hide_title=true&count_private=true&theme=radical)
