@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a dedicated software developer with 6 months o
 - 🔭 **Institute / University:** Student of MCA at DOT, Shivaji University Kolhapur.
 - 🌱 **Currently Learning:** SQL, Web API, Angular, HTML5, CSS3, Bootstrap, PYTHON, AWS, DATA-PREPROCESSING.
 - 💬 **Looking for Job Function:** Information Technology, Software Developer/Engineer, Data Engineer, Full Stack Developer.
-- 🏢 **Current Workplace:** Munimji's IT Solution, Sangli, Maharashtra.
+- 🏢 **Current Workplace:** Munimji's IT Solution Pvt.Ltd .
 - 🎓 **Job Title Seeking:** Full Stack Developer.
 - 📫 **How to Reach Me:** Email me at 📧 priyankasalunkhe950@gmail.com.
 - ⚡ **Fun Fact:** I'm always excited about learning new things!
